@@ -1,3 +1,4 @@
+import React from 'react';
 import './colaborador.css'
 
 const Colaborador = ({ colaborador, corDeFundo }) => {
